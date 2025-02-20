@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @chae-jh
+# 👋 Hi, I’m Jeongho Chae from South Korea
+
 - 👀 I’m interested in Computational Biology
 - 🌱 I’m currently learning Biology and Computer Science
-- 📫 How to reach me : chaejh9752@korea.ac.kr
+  
+# 📫 How to reach me : 
+- chaejh9752@korea.ac.kr
+- chaejh@unc.edu
 
-<!---
-chae-jh/chae-jh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👨‍💻 Work Experience
+- Research Manager at Start-up, Mankwang Corp. (2024)
+- Undergraduate Research Assistant at Terry Furey lab, UNC (2025)
+
+# 🎓 Education
+- B.S in Life Sciences and Computer Science and Engineering at Korea University 
+- Exchange Student at University of North Carolina at Chapel Hill
