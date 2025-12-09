@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m **Jeongho Chae**  
 **Undergraduate Researcher @ UNC Chapel Hill (Furey Lab)**  
 
----
 
 ## 🔬 Research Interests
 I work at the intersection of **computational biology** and **translational research**, with a focus on:
@@ -12,7 +11,6 @@ I work at the intersection of **computational biology** and **translational rese
 - Translational applications in immune and inflammatory diseases (e.g., IBD)  
 - (Interest) Machine learning and AI-based approaches for biological inference  
 
----
 
 ## 📝 Publications
 
@@ -22,25 +20,21 @@ A wavelet-based linear programming framework for accurate and interpretable cell
 _Preprint, bioRxiv (2025)_  
 [[Preprint]](https://doi.org/10.1101/2025.11.26.690776) · [[Code]](https://github.com/chae-jh/WAD)
 
----
 
 ## 🎓 Education
-- **Korea University** — B.S. in Life Sciences & Computer Science  
+- **Korea University** — B.S. in Life Sciences & Computer Science (2020-2026)
 - **UNC Chapel Hill** — Exchange Research Student (2025)
 
----
 
 ## 👨‍💻 Experience
 - Undergraduate Research Assistant — **Terry Furey Lab @ UNC** (2025–Present)  
 - Research Manager — **Mankwang Corp., Start-up** (2024)
 
----
 
 ## 📫 Contact
 - 📧 chaejh9752@korea.ac.kr  
-- 📧 chaejh@unc.edu  
+- 📧 chaejh@unc.edu
 
----
 
 ## 🚴‍♂️ Outside of Research
 I’m also an **ultra-cyclist**—I biked 400 miles across South Korea and gained 17 kg of muscle during military service.  
