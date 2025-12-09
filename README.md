@@ -39,4 +39,5 @@ _Preprint, bioRxiv (2025)_
 ## 🚴‍♂️ Outside of Research
 I’m also an **ultra-cyclist** — I biked 400 miles across South Korea on a solo cycling expedition.  
 During military service, I gained 17 kg through consistent training and eventually **ranked 1st out of 400 soldiers** in the physical fitness test.
+
 I believe in **persistence, discipline, and incremental progress** in research and in life.
