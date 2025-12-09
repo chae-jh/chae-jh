@@ -37,5 +37,5 @@ _Preprint, bioRxiv (2025)_
 
 
 ## 🚴‍♂️ Outside of Research
-I’m also an **ultra-cyclist**—I biked 400 miles across South Korea and gained 17 kg of muscle during military service.  
+I’m also an **ultra-cyclist** — I biked 400 miles across South Korea and gained 17 kg during military service, eventually ranking 1st out of 400 soldiers in the fitness test.  
 I believe in **persistence, discipline, and incremental progress**—in research and in life.
